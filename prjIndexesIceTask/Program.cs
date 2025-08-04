@@ -12,11 +12,11 @@
             Console.WriteLine(wroem[0]);
             Console.WriteLine(wroem[1]);
 
-            Console.WriteLine("ServiceInterval: " + wroem["serviceInterval"]);
-            Console.WriteLine("CarName: " + wroem["carName"]);
-            Console.WriteLine("TyreSize: " + wroem["tyreSize"]);
-            Console.WriteLine("Colour: " + wroem["colour"]);
-            Console.WriteLine("TypeOfService: " + wroem["typeOfService"]);
+            Console.WriteLine("ServiceInterval: " + wroem["interval"]);
+            Console.WriteLine("CarName: " + wroem["carname"]);
+            Console.WriteLine("TyreSize: " + wroem["tyresize"]);
+            Console.WriteLine("Colour: " + wroem["Colour"]);
+            Console.WriteLine("TypeOfService: " + wroem["typeofservice"]);
         }
     }
 }
